@@ -85,6 +85,9 @@
           "options": {
             "browserTarget": "wikiSearch:build"
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }

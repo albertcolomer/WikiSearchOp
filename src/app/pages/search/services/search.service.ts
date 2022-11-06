@@ -29,6 +29,7 @@ export class SearchService {
       format: 'json',
       list: 'search',
       srsearch: term,
+      srlimit:20,
       utf8: '1',
       origin: '*'
     }
